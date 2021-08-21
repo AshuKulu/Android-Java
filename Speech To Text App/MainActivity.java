@@ -1,4 +1,4 @@
-package com.remarkskillmta.speechtotext;
+package ...
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
